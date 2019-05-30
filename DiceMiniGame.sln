@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceMiniGame", "DiceMiniGame\DiceMiniGame.csproj", "{01208FC5-3367-4312-A158-B88CC5ADB2AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01208FC5-3367-4312-A158-B88CC5ADB2AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01208FC5-3367-4312-A158-B88CC5ADB2AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01208FC5-3367-4312-A158-B88CC5ADB2AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01208FC5-3367-4312-A158-B88CC5ADB2AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5F012D-D648-4A73-9F8B-35BF6AFF9BC4}
+	EndGlobalSection
+EndGlobal
